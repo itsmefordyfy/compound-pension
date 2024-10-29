@@ -74,7 +74,6 @@ export default StyleSheet.create({
   actionButtonsContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    marginVertical: 24,
   },
   manageContributionsButton: {
     flexDirection: 'row', // Aligns icon and text in a row
