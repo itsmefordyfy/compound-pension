@@ -1,3 +1,10 @@
+# Compound Pension App
+
+<img width="200" alt="Screenshot 2024-10-29 at 2 04 50 PM" src="https://github.com/user-attachments/assets/2725ee5c-6c8a-4ab6-b82b-2fd1c086d397">
+<img width="200" alt="Screenshot 2024-10-29 at 2 04 58 PM" src="https://github.com/user-attachments/assets/11d42ee2-f5cc-419d-acfa-c6897c7a1d7e">
+<img width="200" alt="Screenshot 2024-10-29 at 2 05 13 PM" src="https://github.com/user-attachments/assets/ed27234d-2d09-498b-b19f-fa63b3adf681">
+<img width="200" alt="Screenshot 2024-10-29 at 2 05 17 PM" src="https://github.com/user-attachments/assets/21d7cd5a-294d-439f-a473-9d39f684f0dd">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
