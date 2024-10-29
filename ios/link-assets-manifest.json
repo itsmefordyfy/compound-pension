@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Helvetica/HelveticaNeue-BlackCond.otf",
+      "sha1": "a5e6681608f08d70e16cfff06ddc0cf653192859"
+    },
+    {
+      "path": "src/assets/fonts/Helvetica/HelveticaNeue-BlackCondObl.otf",
+      "sha1": "2cec8e728ec9092cb10804aa5a481ab33397ddd2"
+    },
+    {
+      "path": "src/assets/fonts/Helvetica/HelveticaNeue-BoldExt.otf",
+      "sha1": "531a72032b1e44c10b3707bd1578a4e2fc6c7333"
+    },
+    {
+      "path": "src/assets/fonts/Helvetica/HelveticaNeue-Condensed.otf",
+      "sha1": "395645ef9849cdedac4106213dd622c546a200bd"
+    },
+    {
+      "path": "src/assets/fonts/Helvetica/HelveticaNeue-CondensedObl.otf",
+      "sha1": "ed5f67afdaaee4b91722ce9ee3b3dec9e6dcfaf0"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/Personal-license-agreement",
+      "sha1": "fbad1ce59f25a9cfece58a8cc881a61c636ede08"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/Right-Grotesk-Compact-Black.otf",
+      "sha1": "0fbee144a247a4f35d3f3264571d5e3909557d86"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-Medium.otf",
+      "sha1": "a750b9fa7f2f6e4232648bdb15ef249c214c8da5"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-NarrowLight.otf",
+      "sha1": "c6d4da3411654f42cee23cb6d31870c4ce07300a"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-SpatialBlack.otf",
+      "sha1": "ecbab1779a50244051dc7dcb1b299188059c611a"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-TallFine.otf",
+      "sha1": "a830955c41c1f843b19e6617a8016d65f0b35188"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-TightMedium.otf",
+      "sha1": "e777b8665dedb6fc3537d51567008fbc706684c6"
+    },
+    {
+      "path": "src/assets/fonts/RightGrostesk/RightGrotesk-WideMedium.otf",
+      "sha1": "27d609e019e5cc3e20e5cd36af3f4db4ff914fb9"
+    }
+  ]
+}
