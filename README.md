@@ -1,8 +1,5 @@
 # Compound Pension App
 
-## GIF Demo
-<img src="https://github.com/user-attachments/assets/f8df3a18-74c5-4566-a697-b75e1d1cc1c5" width="250"/>
-
 ## Screenshots
 
 <img width="200" alt="Screenshot 2024-10-29 at 2 04 50 PM" src="https://github.com/user-attachments/assets/2725ee5c-6c8a-4ab6-b82b-2fd1c086d397">
