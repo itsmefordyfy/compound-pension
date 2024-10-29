@@ -4,7 +4,7 @@ import styles from './styles';
 
 const DeveloperProfile = () => {
   const handlePress = () => {
-    const email = 'your-email@example.com';
+    const email = 'cliffordc.francisco@gmail.com';
     const subject = 'Hiring Inquiry';
     const body = 'Hi, I am interested in discussing a potential collaboration.';
 
